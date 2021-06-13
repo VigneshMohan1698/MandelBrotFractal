@@ -1,0 +1,2 @@
+E:\Vicky's Files\C++\FractalImage\FractalImage\Debug\FractalImage.exe
+E:\Vicky's Files\C++\FractalImage\FractalImage\Debug\FractalImage.pdb

@@ -1,0 +1,7 @@
+﻿  FractalImage.cpp
+E:\Vicky's Files\C++\FractalImage\FractalImage\FractalImage.cpp(5,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+E:\Vicky's Files\C++\FractalImage\FractalImage\FractalImage.cpp(59,14): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+E:\Vicky's Files\C++\FractalImage\FractalImage\FractalImage.cpp(23,10): warning C4101: 'color': unreferenced local variable
+  MandelBrot.cpp
+  Generating Code...
+  FractalImage.vcxproj -> E:\Vicky's Files\C++\FractalImage\FractalImage\Debug\FractalImage.exe
